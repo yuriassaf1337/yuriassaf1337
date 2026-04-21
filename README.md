@@ -10,7 +10,7 @@ computer science student at uvv & web developer at globalsys
 - rust
 - python
 
-### web gwork
+### web work
 - developed aguiabrancaseminovos.com.br
 - developed matchhouse.co
 
