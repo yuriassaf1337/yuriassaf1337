@@ -1,4 +1,18 @@
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yuriassaf1337&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriassaf1337&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</div>
+computer science student at uvv & web developer at globalsys
+
+### web stack
+- react / nextjs
+- nodejs
+- typescript
+
+### tech
+- c++
+- rust
+- python
+
+### web gwork
+- developed aguiabrancaseminovos.com.br
+- developed matchhouse.co
+
+### links
+- [portfolio](https://yuriassaf.vercel.app/)
