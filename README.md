@@ -20,7 +20,7 @@
                                                                                                                                   
   ### links                                                                                                                       
   - [portfolio](https://yuriassaf.vercel.app/)                                                                                    
-                                                                                                                                  
+  <br>                                                                                                                               
   </td>
   <td valign="top" width="50%">                                                                                                   
                                                                                                                                 
