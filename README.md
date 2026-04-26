@@ -2,7 +2,7 @@
   <tr>                                                                                                                            
   <td valign="top" width="50%">                                                                                                   
   <br>                                                                                                                               
-  computer science student at uvv & web developer at globalsys                                                                    
+  computer science student & web developer at globalsys                                                                    
   
   ### web stack                                                                                                                   
   - react / nextjs                                                                                                              
