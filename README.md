@@ -17,9 +17,7 @@
   ### web work
   - developed aguiabrancaseminovos.com.br
   - developed matchhouse.co                                                                                                       
-                                                                                                                                  
-  ### links                                                                                                                       
-  - [portfolio](https://yuriassaf.vercel.app/)                                                                                    
+                                                                                 
   <br>                                                                                                                               
   </td>
   <td valign="top" width="50%">                                                                                                   
